@@ -15,5 +15,3 @@ Each HTML file must utilize the proper HTML tags. You can use previous assignmen
 Using github desktop, submit your files for review by **committing** and **pushing** your changes. You will then need to create a **pull request** to the branch for this assignment. 
 
 I will only look at the latest versions of your files (your last pull request). I will provide brief feedback via your git pull and a formal grade on blackboard.
-### Included Files
-I have included all image files necessary for this set of assignments that you will use for the remainder of the semester. You might not use every image in each assignment, but they are avilable now.
